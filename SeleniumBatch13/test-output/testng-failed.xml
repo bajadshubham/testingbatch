@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <parameter name="BrowserName" value="chrome"/>
+  <test name="Test(failed)" parallel="none" preserve-order="true">
+    <parameter name="BrowserName" value="chrome"/>
+    <classes>
+      <class name="SeleniumDay19_CrossBrowserTesting.TestScript">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="verifyLogin"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- SeleniumDay19_CrossBrowserTesting.TestScript -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

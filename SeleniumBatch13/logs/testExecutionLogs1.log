@@ -1,0 +1,21 @@
+19:51:21,914  INFO SeleniumDay19_CrossBrowserTesting.TestScript:21 - User entered username.
+19:51:21,966  INFO SeleniumDay19_CrossBrowserTesting.TestScript:24 - User entered password.
+19:51:22,949  INFO SeleniumDay19_CrossBrowserTesting.TestScript:27 - User click on submit button.
+19:51:22,951  INFO SeleniumDay19_CrossBrowserTesting.TestScript:30 - User redirected to dashboard page.
+19:51:28,209  INFO SeleniumDay19_CrossBrowserTesting.TestScript:35 - User closed a browser.
+19:52:48,848  INFO SeleniumDay19_CrossBrowserTesting.TestScript:21 - User entered username.
+19:52:48,962  INFO SeleniumDay19_CrossBrowserTesting.TestScript:24 - User entered password.
+19:52:50,101  INFO SeleniumDay19_CrossBrowserTesting.TestScript:27 - User click on submit button.
+19:11:05,188  INFO SeleniumDay19_CrossBrowserTesting.TestScript:21 - User entered username.
+19:11:05,340  INFO SeleniumDay19_CrossBrowserTesting.TestScript:24 - User entered password.
+19:11:06,367  INFO SeleniumDay19_CrossBrowserTesting.TestScript:27 - User click on submit button.
+19:19:16,656  INFO SeleniumDay19_CrossBrowserTesting.TestScript:23 - User entered username.
+19:19:16,763  INFO SeleniumDay19_CrossBrowserTesting.TestScript:26 - User entered password.
+19:19:17,770  INFO SeleniumDay19_CrossBrowserTesting.TestScript:29 - User click on submit button.
+19:19:17,773  INFO SeleniumDay19_CrossBrowserTesting.TestScript:32 - User redirected to dashboard page.
+19:19:23,408  INFO SeleniumDay19_CrossBrowserTesting.TestScript:42 - User closed a browser.
+19:20:07,661  INFO SeleniumDay19_CrossBrowserTesting.TestScript:23 - User entered username.
+19:20:07,740  INFO SeleniumDay19_CrossBrowserTesting.TestScript:26 - User entered password.
+19:20:08,710  INFO SeleniumDay19_CrossBrowserTesting.TestScript:29 - User click on submit button.
+19:20:08,713  INFO SeleniumDay19_CrossBrowserTesting.TestScript:32 - User redirected to dashboard page.
+19:20:14,054  INFO SeleniumDay19_CrossBrowserTesting.TestScript:42 - User closed a browser.

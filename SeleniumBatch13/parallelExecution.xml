@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="4" name="Test" parallel="true">
+    <classes>
+      <class name="SeleniumDay15_DependsOnMethod.SecondClass"/>
+      <class name="SeleniumDay15_DependsOnMethod.FirstClass"/>
+      <class name="SeleniumDay15_DependsOnMethod.ThirdClass"/>
+      <class name="SeleniumDay15_DependsOnMethod.FourthClass"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
