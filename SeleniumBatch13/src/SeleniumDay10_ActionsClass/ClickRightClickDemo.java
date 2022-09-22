@@ -26,6 +26,9 @@ public class ClickRightClickDemo {
 		
 		Thread.sleep(5000);
 		
+		
+		Thread.sleep(5000);
+		
 		act.contextClick().build().perform();
 		
 		Thread.sleep(5000);
