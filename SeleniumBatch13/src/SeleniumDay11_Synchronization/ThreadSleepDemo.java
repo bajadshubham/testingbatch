@@ -21,7 +21,7 @@ public class ThreadSleepDemo {
 		
 		button.click();
 		
-		Thread.sleep(20000);
+		Thread.sleep(15000);
 		
 		WebElement textBox = driver.findElement(By.xpath("(//input[@id='txt1'])[1]"));
 		
