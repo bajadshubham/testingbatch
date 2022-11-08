@@ -23,5 +23,10 @@ public class AdvanceExample {
 	public void method10() {
 		System.out.println("Hi I am in method10 method");
 	}
+	
+	@Test
+	public void method11() {
+		System.out.println("Hi I am in method11 method");
+	}
 
 }
