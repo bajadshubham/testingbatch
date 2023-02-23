@@ -34,6 +34,8 @@ public class ClickRightClickDemo {
 		Thread.sleep(5000);
 		
 		driver.close();
+		
+		System.out.println("I am tsting git changes");
 
 	}
 
